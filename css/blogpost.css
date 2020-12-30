@@ -1,0 +1,71 @@
+.post-image{  
+
+display: flex;
+justify-content: center;
+
+}
+
+
+.post-image img{
+
+    height: 180px;
+}
+
+
+
+.heading-gif {
+    text-align: center;
+    font-family:var(--font1);
+    padding-right: 25px; ;
+}
+
+/* picture generater css */
+
+
+
+.container-pbox {
+   overflow: hidden;
+}
+.images-cats {
+    margin: 4px;
+    display: inline-block;
+}
+
+
+/* gif-generater css */
+
+.container-gif {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 300px;
+}
+.btn2 {
+    overflow: hidden;
+    
+    margin-bottom: 20px;
+}
+.gif-cats{
+    overflow: hidden;
+}
+.out-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+
+/* blog1 css */
+
+.container-blog1 {
+    /* height: 400px; */
+    display: flex;
+    justify-content: center;
+}
+.blog-cat-img img {
+    max-width: 400px;
+}
+.blog1-content{
+    text-align: center;
+}

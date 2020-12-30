@@ -1,0 +1,24 @@
+.contact-content{
+    background-image: url('/imgs/img3.jpg');
+    background-size: cover;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+
+.formbox input, textarea {
+    width: 27vw;
+    padding: 8px;
+    font-family: var(--font1);
+    margin: 5px;
+    border-radius: 13px;
+  
+}
+.formbox textarea{
+    width: 56vw;
+    height: 100px;
+}

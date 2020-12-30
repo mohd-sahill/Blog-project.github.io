@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@600&family=Roboto&display=swap');
+
+:root{
+--main-bg-color:red;
+--font1:'Baloo Bhaina 2', cursive;
+--font2:'Roboto', sans-serif;
+}
+
+.max-width-1{
+    max-width: 80vw;
+}
+
+.max-width-2{
+    max-width: 60vw;
+}
+
+.m-auto{
+    margin: auto;
+}
+.formbox input{
+
+
+}
+.form-box{
+    
+}
